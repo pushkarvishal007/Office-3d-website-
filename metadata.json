@@ -1,0 +1,6 @@
+{
+  "name": "OmniSpace 3D - Interactive 3D Website & Virtual Office",
+  "description": "Interactive 3D isometric website experience where users can rotate, zoom, explore virtual office zones, follow character walkthroughs, and customize 3D domain branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
